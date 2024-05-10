@@ -1,4 +1,4 @@
-# docker image NodeJS + Browsers
+# Docker image NodeJS + Browsers
 
 This is a project that contains the source code for the [webpanorg/browsers](https://hub.docker.com/r/webpanorg/browsers) image.
 The image works on amd64 and arm64 architectures.
